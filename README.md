@@ -6,7 +6,7 @@ de soluções.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Estatisticas 📊
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aeziyr&layout=compact)
-
-
 ![Aeziyr GitHub stats](https://github-readme-stats.vercel.app/api?username=Aeziyr&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aeziyr&layout=compact)
